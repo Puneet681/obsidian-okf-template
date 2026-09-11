@@ -6,8 +6,8 @@ created: 2026-09-11
 updated: 2026-09-11
 status: active
 tags: [design, palette, logo, brand]
-index: ./index.md
-log: ./log.md
+index: ../index.md
+log: ../log.md
 summary: Teal + gold palette. Logo concepts exist but not yet approved.
 ---
 

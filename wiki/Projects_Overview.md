@@ -6,8 +6,8 @@ created: 2026-09-11
 updated: 2026-09-11
 status: active
 tags: [projects, overview]
-index: ./index.md
-log: ./log.md
+index: ../index.md
+log: ../log.md
 summary: All active projects and their statuses.
 ---
 

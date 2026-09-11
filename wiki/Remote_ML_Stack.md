@@ -6,8 +6,8 @@ created: 2026-09-11
 updated: 2026-09-11
 status: active
 tags: [ml, vision, macbook, tailscale]
-index: ./index.md
-log: ./log.md
+index: ../index.md
+log: ../log.md
 summary: Vision brain and image gen brain on puneets-macbook-pro via Tailscale.
 ---
 

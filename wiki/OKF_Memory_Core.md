@@ -6,8 +6,8 @@ created: 2026-09-11
 updated: 2026-09-11
 status: active
 tags: [memory, okf, obsidian, architecture]
-index: ./index.md
-log: ./log.md
+index: ../index.md
+log: ../log.md
 summary: The OKF vault is the primary long-term memory core for all bots, agents, and sessions.
 ---
 

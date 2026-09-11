@@ -6,8 +6,8 @@ created: 2026-09-11
 updated: 2026-09-11
 status: active
 tags: [hermes, install, stt, avx2]
-index: ./index.md
-log: ./log.md
+index: ../index.md
+log: ../log.md
 summary: Hermes install root, launch path, and the AVX2 STT fix.
 ---
 

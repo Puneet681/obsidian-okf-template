@@ -6,8 +6,8 @@ created: 2026-09-11
 updated: 2026-09-11
 status: active
 tags: [mcp, image-gen, oauth, openart]
-index: ./index.md
-log: ./log.md
+index: ../index.md
+log: ../log.md
 summary: OpenArt MCP for image generation — OAuth token, port 24180, limited credits.
 ---
 

@@ -6,8 +6,8 @@ created: 2026-09-11
 updated: 2026-09-11
 status: active
 tags: [security, consent, privacy, rules]
-index: ./index.md
-log: ./log.md
+index: ../index.md
+log: ../log.md
 summary: Ask before any install/modify/delete. No data exfiltration. Self-hosted only.
 ---
 

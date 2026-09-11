@@ -6,8 +6,8 @@ created: 2026-09-11
 updated: 2026-09-11
 status: active
 tags: [rule, presentation, quality]
-index: ./index.md
-log: ./log.md
+index: ../index.md
+log: ../log.md
 summary: Ship only finished, tested work. Use vision-brain check before presenting.
 ---
 

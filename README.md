@@ -40,8 +40,8 @@ updated: 2026-09-11
 status: active
 tags: [tag1, tag2]
 summary: One-line summary of what this note holds.
-index: ./index.md
-log: ./log.md
+index: ../index.md
+log: ../log.md
 ---
 ```
 

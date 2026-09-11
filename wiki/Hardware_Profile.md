@@ -6,8 +6,8 @@ created: 2026-09-11
 updated: 2026-09-11
 status: active
 tags: [hardware, machine, drives, caches]
-index: ./index.md
-log: ./log.md
+index: ../index.md
+log: ../log.md
 summary: Machine specs and the hard D:-drive data rule.
 ---
 
